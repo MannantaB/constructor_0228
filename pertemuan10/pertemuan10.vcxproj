@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="chainfunction.cpp" />
     <ClCompile Include="constructor.cpp" />
     <ClCompile Include="destructor.cpp" />
     <ClCompile Include="pertemuan10.cpp" />
